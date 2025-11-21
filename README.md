@@ -74,4 +74,8 @@ Your work will be automatically submitted when you push to your GitHub Classroom
 - [Render Documentation](https://render.com/docs)
 - [Railway Documentation](https://docs.railway.app/)
 - [Vercel Documentation](https://vercel.com/docs)
-- [Netlify Documentation](https://docs.netlify.com/) 
+- [Netlify Documentation](https://docs.netlify.com/)
+
+The url for the backend is https://mern-stack-integration-mwanjury-backend.onrender.com
+
+The url for the frontend is https://mern-stack-integration-mwanjury-frontend.onrender.com
